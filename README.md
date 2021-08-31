@@ -1,2 +1,0 @@
-# makaleler
-Yazdığım makaleler
