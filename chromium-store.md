@@ -38,5 +38,5 @@ Geliştirici modunu aktif ettikten sonra Paketlenmiş öğe yükle butonuna tık
 
 Umarım bu yazıyı okuduktan sonra Ungoogled Chromiuma eklenti kurmayı öğrenmişsinizdir. Aşağıdakı bağlantılardan bana ulaşa bilirsiniz.
 
-Email: subhanqedirli@protonmail.com                 [Youtube](https://www.youtube.com/channel/UCCyrdKjOWMQFu4MpAuD9ajg) [Discord](https://discord.gg/jwR4sAYQ5n) [Matrix](https://matrix.to/#/!kSPvsnjXUJDMJszYek:matrix.org?via=matrix.org) [Telegram](https://t.me/LinuxisnotUNIXchannel) [Mastodon](https://mastodon.social/web/accounts/106607411263382617)  
+Email: subhanqedirli@protonmail.com                 [Youtube](https://www.youtube.com/channel/UCCyrdKjOWMQFu4MpAuD9ajg) [Discord](https://discord.gg/jwR4sAYQ5n) [Matrix](https://matrix.to/#/!kSPvsnjXUJDMJszYek:matrix.org?via=matrix.org) [Telegram](https://t.me/LinuxisnotUNIXchannel) [Mastodon](https://mastodon.social/@subhanqedirli)  
 
