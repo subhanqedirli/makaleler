@@ -30,4 +30,4 @@ Email: subhanqedirli@protonmail.com
 [Discord](https://discord.gg/jwR4sAYQ5n)
 [Matrix](https://matrix.to/#/#linuxturkey:matrix.org)
 [Telegram](https://t.me/LinuxisnotUNIXchannel)
-
+[Mastodon](https://mastodon.social/@subhanqedirli)
