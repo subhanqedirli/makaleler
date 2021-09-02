@@ -32,7 +32,7 @@ Geliştirici modunu aktif ettikten sonra Paketlenmiş öğe yükle butonuna tık
 
 [Dark reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Web siteler için etkili bir karanlık tema
 
-[Tabliss](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Ana sayfa yeni sekmelerinizi gwzelle.tiricek harika bir eklenti.
+[Tabliss](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Ana sayfa yeni sekmelerinizi güzelleştiricek harika bir eklenti.
 
 ## Bitiş
 
