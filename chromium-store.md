@@ -24,7 +24,7 @@ Geliştirici modunu aktif ettikten sonra Paketlenmiş öğe yükle butonuna tık
 
 ![Paketlenmiş öğe yükle](https://i.imgur.com/ChuqxLo.png)
 
- Eklenti kurulduktan sonra yeniden [Chrome Web store](https://chrome.google.com/webstore/category/extensions) girip istediğimiz eklentinin sayfasının sayfasına giriyoruz ve kur'a tıklıyoruz. Tıkladıktan sonra eklentinin .crx dosyası inicek ve hata vericek. No panic her şey yolunda. Az önce Chromium Store eklentisi için yaptığımız işlemi bu eklenti için de yapıyoruz ve tamadır.
+ Eklenti kurulduktan sonra yeniden [Chrome Web store](https://chrome.google.com/webstore/category/extensions) girip istediğimiz eklentinin sayfasının sayfasına giriyoruz ve kur'a tıklıyoruz. Tıkladıktan sonra eklentinin .crx dosyası inicek ve hata vericek. No panic her şey yolunda. Az önce Chromium Store eklentisi için yaptığımız işlemi bu eklenti için de yapıyoruz ve tamamdır.
 
 ## Tavsiye ettiğim eklentiler
 
