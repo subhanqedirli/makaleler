@@ -28,6 +28,6 @@ Umarıım bu blog yazısıyla size linux hakkında bir kaç şey öğretmişimdi
 Email: subhanqedirli@protonmail.com
 [Youtube](https://www.youtube.com/channel/UCCyrdKjOWMQFu4MpAuD9ajg)
 [Discord](https://discord.gg/jwR4sAYQ5n)
-[Matrix](https://matrix.to/#/#linuxturkey:matrix.org)
+[Matrix](https://matrix.to/#/!kSPvsnjXUJDMJszYek:matrix.org?via=matrix.org)
 [Telegram](https://t.me/LinuxisnotUNIXchannel)
 [Mastodon](https://mastodon.social/@subhanqedirli)
