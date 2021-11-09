@@ -47,6 +47,7 @@ Facebook => Diaspora vb.
 Instagram => Pixelfed vb.
 Reddit => Lemmy vb.
 Discord, Whatsapp => Matrix vb.
+Blogspot => Write freely vb.
 
 Dağıtık teknoloji hakkında daha fazla bilgi almak [şu yazıyı](https://teknolojirehberleri.xyz/rehber/dagitik-teknolojiler-nedir) okuya bilirsiniz
 ## Bitiş
