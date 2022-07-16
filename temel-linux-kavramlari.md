@@ -18,7 +18,8 @@ Bildiğiniz üzere Ubuntu, Mint, Arch vb. işletim sistemleri aslında Linux ker
 ## Init sistemleri (systemd, openrc, runit vs.)
 ![init](https://i.imgur.com/4GVsLVs.jpg)
 ##  
-Init, bilgisayar başladığında başlatılan ilk işleme verilen isimdir. Bilgisayar kapanıncaya kadar çalışmaya devam eder. Günümüzdeki Linux dağıtımlarında genellikle systemd kullanılmaktadır.
+Init, bilgisayar başladığında başlatılan ilk işleme verilen isimdir. Bilgisayar kapanıncaya kadar çalışmaya devam eder. Günümüzdeki Linux dağıtımlarında genellikle systemd kullanılmaktadır. Bununla birlikte daha sade ve basit init sistemleri olarak OpenRC, Runit, Sysinit ve Systemv gibi sistemler mevcuttur. Sunucularda Systemd kullanımı daha avantajlı olsa da, günlük kullanım için diğer init sistemlerini kullanmak hem daha sağlıklı hem de güzenlik açığı bakımından daha mantıklı olacaktır.
+
 ## Getty
 ![getty](https://i.imgur.com/jYwzQE6.png)
 ##  
