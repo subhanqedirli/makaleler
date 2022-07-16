@@ -2,7 +2,7 @@
 ![Linux](https://i.imgur.com/gaLZ7nO.png)
 ## 
 Her kese merhablar. Bu yazıda ilk kullanıcıların aşina olduğunda önüne çıkan problemleri daha kolay hall edebilecekleri yani her Linux kullanıcısın bilmesi gereken kavramları anlatacağım.
-## Booot işlemi
+## Boot işlemi
 ![boot](https://i.imgur.com/KGE3qy2.png)
 ## 
 Herhangi bir bilgisayarı ilk açtığımızda POST (Power on self-test) denilen, ilk kontrollerden sorumlu olan bir yazılım başlatılır. Bu yazılımı bizler, eski bilgisayarımız ilk başladığında gözüken, anakartın markasının logosuyla siyah beyaz yazıların olduğu kısım olarak tanıyoruz. POST çalıştıktan sonra bootloaderı başlatmaktan sorumlu olan bir yazılım çalıştırılır, BIOS. BIOS'un görevi gerekli donanım parçalarını kontrol ederek boot işlemini başlatmaktır. Bu işlemi de bootloader aracılığıyla yapar. Günümüzde BIOS'un işini, UEFI (Unified Extensible Firmware Interface) denilen bir yazılım yapmaktadır. Genellikle 2013 öncesi bilgisayarlar BIOS boot seçeneği ile gelirken, sonraki bilgisayarlar UEFI boot seçeneği ile gelmektedir. UEFI ve BIOS aynı işi yapsalar da, yapma biçimleri farklıdır. Herhangi bir işletim sistemi için boot diski/usb'si hazırlanırken bilgisayarın BIOS veya UEFI boot işleminden hangisine sahip olduğunun bilinmesi işte bu nedenle önemlidir. BIOS boot aynı zamanda Legacy boot olarak da adlandırılır.
