@@ -59,7 +59,7 @@ Email: subhanqedirli@protonmail.com                 [Youtube](https://www.youtub
 ### Kaynakça
 [Arch Wiki](http://wiki.archlinux.org/index.php/Arch_boot_process)
 [Wikiwand](http://www.wikiwand.com/en/Linux)
-[Linux.org.tr](https://e-bergi.com/y/linux-problem-1/)
+[E-bergi](https://e-bergi.com/y/linux-problem-1/)
 
 
 ##### Son.
